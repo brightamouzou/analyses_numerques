@@ -10,7 +10,7 @@
     Gauss
     Gauss-Jordan
     LU (Crout and Doolittle)
-    Choloesky
+    Cholesky
     Thomas
     Gauss-Seidel
     Jacobi
